@@ -1,4 +1,6 @@
 import express, { Application, Request, Response } from "express";
+import routes from "./routers/routes";
+import apiRoutes from "./routers/apiRoutes";
 
 const app: Application = express();
 const PORT: number = 3000;
