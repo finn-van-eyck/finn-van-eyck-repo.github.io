@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "name": "Treadmill 01",
+    "zone": "Cardio",
+    "status": "available"
+  },
+  {
+    "id": 2,
+    "name": "Treadmill 02",
+    "zone": "Cardio",
+    "status": "available"
+  },
+  {
+    "id": 3,
+    "name": "Rowing Machine",
+    "zone": "Cardio",
+    "status": "available"
+  },
+  {
+    "id": 4,
+    "name": "Bench Press",
+    "zone": "Strength",
+    "status": "available"
+  },
+  {
+    "id": 5,
+    "name": "Squat Rack",
+    "zone": "Strength",
+    "status": "available"
+  },
+  {
+    "id": 6,
+    "name": "Cable Crossover",
+    "zone": "Strength",
+    "status": "available"
+  },
+  {
+    "id": 7,
+    "name": "Leg Press",
+    "zone": "Strength",
+    "status": "out_of_order"
+  },
+  {
+    "id": 8,
+    "name": "Lat Pulldown",
+    "zone": "Strength",
+    "status": "available"
+  },
+  {
+    "id": 9,
+    "name": "Spin Bike 01",
+    "zone": "Studio",
+    "status": "available"
+  },
+  {
+    "id": 10,
+    "name": "Spin Bike 02",
+    "zone": "Studio",
+    "status": "available"
+  }
+]

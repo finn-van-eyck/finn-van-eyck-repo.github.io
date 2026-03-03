@@ -1,0 +1,29 @@
+[
+  {
+    "id": 1,
+    "machineId": 4,
+    "userName": "Finn",
+    "startTime": "2026-03-03T17:00:00.000Z",
+    "endTime": "2026-03-03T17:30:00.000Z",
+    "status": "active",
+    "createdAt": "2026-03-03T10:15:00.000Z"
+  },
+  {
+    "id": 2,
+    "machineId": 1,
+    "userName": "Kyllian",
+    "startTime": "2026-03-03T18:00:00.000Z",
+    "endTime": "2026-03-03T18:20:00.000Z",
+    "status": "active",
+    "createdAt": "2026-03-03T11:05:00.000Z"
+  },
+  {
+    "id": 3,
+    "machineId": 7,
+    "userName": "Ward",
+    "startTime": "2026-03-03T19:00:00.000Z",
+    "endTime": "2026-03-03T19:30:00.000Z",
+    "status": "cancelled",
+    "createdAt": "2026-03-03T12:30:00.000Z"
+  }
+]
